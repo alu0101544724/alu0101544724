@@ -4,7 +4,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="alu0101544724" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
@@ -15,7 +15,7 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Saray&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=alu0101544724&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="alu0101544724" 
     bg_color=#808080/></p>
 
