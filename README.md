@@ -1,32 +1,48 @@
-<h1 align="center">Hi 👋, I'm Saray</h1>
-<h3 align="center">Student at the University of La Laguna📚.</h3>
-<h3 align="center">Ingeniería Informática💻.</h3>
+<h1 align="center">✨ Hi, I'm Saray ✨</h1>
+<h3 align="center">💻 Computer Engineering Student | University of La Laguna 📚</h3>
 
-<br>
+---
 
-- 🌱 I’m currently learning Web Development and other programming languages
+## 🌸 About Me
 
-- 📫 How to reach me **alu0101544724@ull.edu.es**
+- 🎓 Computer Engineering student at the **University of La Laguna**
+- 🌐 Interested in **Web Development** and **Computer Networks**
+- 🖧 Passionate about **networks, systems, and backend technologies**
+- 🌱 Always learning and improving
+- 🌍 Love **nature**, ✈️ **travel**, and 🎵 **music**
+- 📫 Contact: **alu0101544724@ull.edu.es**
 
-- ⚡ Fun fact: - Nature🌏, travel✈️ and music🎵 are the reasons to live.
+---
 
-<br>
+## 💻 Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="alu0101544724" /></p>
+---
 
-<br>
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=alu0101544724&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="alu0101544724" 
-    bg_color=#808080/></p>
+## 📊 GitHub Stats
 
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alu0101544724&theme=tokyonight&hide_border=true" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alu0101544724&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="alu0101544724" /></p>
+---
+<p align="center">
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="280"/>
+</p>
 
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alu0101544724&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="alu0101544724" /></p>
-      
+<p align="center">
+  🚀 Web Development, Networking & Continuous Learning
+</p>
